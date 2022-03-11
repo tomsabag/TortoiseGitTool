@@ -1,2 +1,2 @@
 print("Learning how to use tortoise git")
-print("Ive made a change which wasnt commited yet")
+print("This is a screen shot of a commit, done via TortoiseGit, by Tom Sabag, ID:208845842")
